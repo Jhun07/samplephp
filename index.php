@@ -2,4 +2,6 @@
 echo "this is pghp";
 echo "vic gwapo";
 echo "Salamat Kaayu ric";
+
+snum = 3;
 ?>
